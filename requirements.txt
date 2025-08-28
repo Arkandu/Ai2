@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+faster-whisper
+edge-tts
+coqui-tts
+openai
+sounddevice
+numpy
+pyyaml
